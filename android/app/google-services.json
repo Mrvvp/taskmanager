@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850502517034",
+    "project_id": "taskmanager-ebea8",
+    "storage_bucket": "taskmanager-ebea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850502517034:android:ff4f6c0459cbccd3cd5e53",
+        "android_client_info": {
+          "package_name": "com.example.taskmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgMoqad9i12Q7-z0bVNc1yetVqwt7oySs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
